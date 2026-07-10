@@ -612,6 +612,21 @@ nav a:hover{
 }
 
 /* ==========================
+   LAST
+========================== */
+
+.last-container{
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    gap:80px;
+
+}
+/* ==========================
    SCROLL ANIMATION
 ========================== */
 /* 下からフェード */
