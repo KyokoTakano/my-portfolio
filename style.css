@@ -616,11 +616,21 @@ nav a:hover{
 ========================== */
 
 .last-container {
-   
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100%; 
+    gap: 80px;
+}
+
+#last {
+
+    flex: 1; 
+}
+
+#last p {
+   
+    text-align: center;
+    margin: 0;
    
 }
 
