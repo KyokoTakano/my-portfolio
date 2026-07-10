@@ -620,17 +620,10 @@ nav a:hover{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 80px;
+    width: 100%; 
    
 }
 
-#last {
-   
-    display: block;
-    text-align: center;
-    flex: 1; 
-   
-}
 /* ==========================
    SCROLL ANIMATION
 ========================== */
