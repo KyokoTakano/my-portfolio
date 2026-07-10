@@ -626,6 +626,14 @@ nav a:hover{
     gap:80px;
 
 }
+
+#last {
+   
+   display: block;
+   
+   text-align: center;
+   
+}
 /* ==========================
    SCROLL ANIMATION
 ========================== */
