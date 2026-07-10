@@ -615,23 +615,20 @@ nav a:hover{
    LAST
 ========================== */
 
-.last-container{
-
-    display:flex;
-
-    align-items:center;
-
-    justify-content:center;
-
-    gap:80px;
-
+.last-container {
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+   
 }
 
 #last {
    
-   display: block;
-   
-   text-align: center;
+    display: block;
+    text-align: center;
+    flex: 1; 
    
 }
 /* ==========================
